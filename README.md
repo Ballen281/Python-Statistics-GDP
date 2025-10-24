@@ -7,7 +7,7 @@
 ## Project Overview
 
 This project analyzes **Global GDP data from the World Bank and United Nations (2025)** to identify patterns and insights in global economic performance.  
-It demonstrates a complete data analysis workflow — from data ingestion and cleaning to summary statistics and interpretation — using Python, pandas, and matplotlib.
+It demonstrates a complete data analysis workflow,  from data ingestion and cleaning to summary statistics and interpretation,  using Python, pandas, and matplotlib.
 
 The notebook (`Global GDP Statistics.ipynb`) serves as part of my professional data portfolio, highlighting my ability to work with real-world data, clean and validate datasets, and communicate findings clearly for business and analytical audiences.
 
@@ -60,7 +60,7 @@ The top-performing economies included the **United States**, **China**, **Japan*
 Developed nations showed GDP per capita values nearly **10 times higher** than developing regions, underscoring persistent income inequality.
 
 ### Data Range
-The calculated range of GDP per capita demonstrated the vast economic spread — a useful metric for comparative visualization and inequality assessment.
+The calculated range of GDP per capita demonstrated the vast economic spread,  a useful metric for comparative visualization and inequality assessment.
 
 ---
 
